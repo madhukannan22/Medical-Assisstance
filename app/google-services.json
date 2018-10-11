@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "674909509315",
+    "firebase_url": "https://medical-assistant-a2127.firebaseio.com",
+    "project_id": "medical-assistant-a2127",
+    "storage_bucket": "medical-assistant-a2127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674909509315:android:0cf6ac5d7ff51723",
+        "android_client_info": {
+          "package_name": "com.example.madhu.medicalassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674909509315-7tmglqa3f1d34fv2ftv9b4l3269jhk5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madhu.medicalassistant",
+            "certificate_hash": "75f4ac6fe01f313142f236bc7241af08c469c45d"
+          }
+        },
+        {
+          "client_id": "674909509315-qo7qc3piiamun9tsqcpuicdp4g382u4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBleY1oE7Tw56H5TZyq9GJ5FoOAiVg3b6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674909509315-qo7qc3piiamun9tsqcpuicdp4g382u4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
