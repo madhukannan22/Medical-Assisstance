@@ -128,7 +128,7 @@ public class SpeechToText extends AppCompatActivity {
     void firstaidprovider(String s)
     {
         // Database queries to retrieve the firstaid according to the health problem
-        //To check the health problem and its remedies are present in the database
+        //To check the health problem and its remedies are present in the dataabase
 
         //Assuming that தலைவலி is a valid health problem
         DatabaseReference mostafa = ref.child("Firstaid").child(s).child("Medicine");
